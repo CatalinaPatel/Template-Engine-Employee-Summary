@@ -4,6 +4,12 @@
 }
 
 .card-header {
-    background-color: rgba(17, 29, 83, 0.836);
+    background-color: rgba(17, 29, 83, 0.925);
     color: white;
+}
+
+.card-body {
+    background-color: rgb(227, 228, 233);
+    padding: 21px;
+    scroll-padding-left: 5px;
 }
