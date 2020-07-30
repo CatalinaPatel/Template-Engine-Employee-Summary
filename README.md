@@ -9,6 +9,10 @@ The application will prompt the user for information about the team manager and 
 ## License
 No license
 
+## Video
+Application test video
+<iframe src="https://drive.google.com/file/d/1-fBDAETklws_yCSYjQV_Lexq75BITZHd/preview" width="640" height="480"></iframe>
+
 Github Profile: https://github.com/CatalinaPatel
 e-mail: patelcatalina@gmail.com
 
