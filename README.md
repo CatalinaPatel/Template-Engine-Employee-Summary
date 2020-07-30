@@ -11,8 +11,9 @@ No license
 
 ## Video
 Application test video
-<iframe src="https://drive.google.com/file/d/1-fBDAETklws_yCSYjQV_Lexq75BITZHd/preview" width="640" height="480"></iframe>
+![README Generator Demo](videos/test.gif)
 
+## Contact
 Github Profile: https://github.com/CatalinaPatel
 e-mail: patelcatalina@gmail.com
 
